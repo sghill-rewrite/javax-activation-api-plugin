@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin provides the <a href="https://github.com/javaee/activation">JavaBeans Activation Framework (JAF)</a> API for other plugins.
+</div>
